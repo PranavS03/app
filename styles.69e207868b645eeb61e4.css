@@ -1,0 +1,1 @@
+body{margin:0;font-family:Samsung Sans;font-size:18px}.container{width:90%;margin:0 auto}header{background:red;padding:1%}header a{color:#fff;text-decoration:none}header a.logo{font-weight:700}header nav{float:right}header nav ul{list-style-type:none;margin:0;display:flex}header nav ul li a{padding:1em}header nav ul li a:hover{background:#c00}h1{margin-top:2em}
